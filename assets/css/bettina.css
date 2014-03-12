@@ -1,0 +1,39 @@
+/*CSS*/
+
+body *{
+	color: #B6B7B8;
+	font-family: "Raleway";
+}
+p{
+	color: #19161B;
+}
+.rojo-logo{
+	color: #A5152B;
+}
+.may{
+	text-transform: uppercase;
+}
+.banner-bettina{
+	background: red;
+	padding: 15px;
+	font-size: 12px;
+}
+.lang{
+	text-align: right;
+}
+.font-header-inf{
+	font-size: 14px;
+}
+.logo{
+	background: blue;
+}
+.description{
+	background: green;
+}
+.menus-header{
+	background: whitesmoke;
+}
+.brand{
+	text-align: right;
+}
+
