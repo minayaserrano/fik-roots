@@ -69,4 +69,4 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 
 ## Support
 
-Use the [Roots Discourse](http://discourse.roots.io/) to ask questions and get support.
+Use the [Roots Discourse](http://discourse.roots.io/) to ask questions and get supports.
