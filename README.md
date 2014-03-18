@@ -34,6 +34,7 @@ Edit `lib/init.php` to setup custom navigation menus and post thumbnail sizes.
 
 ### [Roots Docs](http://roots.io/docs/)
 
+
 * [Roots 101](http://roots.io/roots-101/) — A guide to installing Roots, the files and theme organization
 * [Theme Wrapper](http://roots.io/an-introduction-to-the-roots-theme-wrapper/) — Learn all about the theme wrapper
 * [Build Script](http://roots.io/using-grunt-for-wordpress-theme-development/) — A look into the Roots build script powered by Grunt
@@ -69,3 +70,4 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 ## Support
 
 Use the [Roots Discourse](http://discourse.roots.io/) to ask questions and get support.
+#
