@@ -36,4 +36,9 @@ p{
 .brand{
 	text-align: right;
 }
-
+.sr-only{
+    position: relative;
+}
+.navbar-toggle .icon-bar{
+    display: none;
+}
